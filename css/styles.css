@@ -1,0 +1,167 @@
+/* Elements */
+body {
+  background-color: #f2f6f5;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  background-color: transparent;
+  border-style: dotted none none none;
+  border-top-color: #63707e;
+  height: 0px;
+  width: 5%;
+  border-width: 8px;
+  margin: 2% auto;
+}
+
+p {
+  margin: 0;
+  font-weight: lighter;
+  font-family: "Raleway", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding-bottom: 3%;
+}
+
+/* NavBar */
+.navbar {
+  margin-left: 3.5%;
+}
+
+.navbar-icon {
+  color: #63707e;
+}
+
+/* Name Section */
+#name-title {
+  padding: 5%;
+  text-align: center;
+}
+
+.name-card {
+  background-color: #c8dad3;
+  width: 60%;
+  margin: 4% auto;
+  padding: 6% 0;
+  line-height: 2;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
+
+.mtn-img {
+  max-width: 100%;
+}
+
+/* Section Heading */
+.section-heading {
+  margin-left: 4.2%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+/* Skill section */
+.skill {
+  text-align: center;
+  padding: 2%;
+  line-height: 2;
+  background-color: #93b5b3;
+  border: 1px solid;
+  border-radius: 15px 50px 30px;
+  border-color: #93b5b3;
+  margin-bottom: 10%;
+}
+
+.skill-icon {
+  margin-bottom: 7%;
+  font-size: 2.5rem;
+}
+
+.skill-heading {
+  font-size: 1.4rem;
+  margin-bottom: 1%;
+  font-weight: bold;
+}
+
+/* Icon Hover */
+.icon:hover {
+  color: #f2f6f5;
+}
+
+/* Education */
+#education {
+  background-color: #c8dad3;
+}
+
+.edu-info {
+  line-height: 2;
+  padding-bottom: 2%;
+}
+
+.degree-heading {
+  padding-bottom: .5%;
+  padding-top: .5%;
+  margin-left: 6.6%;
+  margin-right: 6%;
+}
+
+.degree-info {
+  margin-left: 6.6%;
+  margin-right: 6%;
+  padding: .5% 0;
+  font-family: "Raleway", sans-serif;
+}
+
+.edu-icon {
+  font-size: 2rem;
+  margin-left: 5.6%;
+  float: left;
+  padding-right: 2%;
+  padding-left: 1%;
+}
+
+/* Contact me  */
+.contact-me {
+  text-align: center;
+  padding: 4% 0 10%;
+}
+
+.avatar-img {
+  display: block;
+  margin: 0 auto;
+  max-width: 20%;
+  padding: 1%;
+  border-radius: 100%;
+}
+
+.avatar-img:hover {
+  background-color: #c8dad3;
+}
+
+.contact-msg {
+  padding: 3% 0;
+  line-height: 2;
+}
+
+.bottom-li {
+  padding-bottom: 3%;
+}
+
+.btn-margin {
+  margin-right: 2%;
+}
+
+/* Footer */
+.footer {
+  background-color: #93b5b3;
+  text-align: center;
+  padding: 4%;
+  color: #63707e;
+}
+
+.footer-link {
+  color: #63707e;
+  font-size: 2.5rem;
+  padding: 0 .5% .5%;
+}
